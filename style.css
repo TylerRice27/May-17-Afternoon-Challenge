@@ -1,0 +1,10 @@
+.header {
+    height: 100px;
+
+}
+
+.image {
+    background-image: url(rosebox-BFdSCxmqvYc-unsplash.jpg);
+    background-size: cover;
+    object-fit: contain;
+}
